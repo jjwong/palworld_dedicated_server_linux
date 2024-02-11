@@ -21,7 +21,7 @@ Version 3.3.7 was the latest version at the time of this writing. You can always
 ### First timers
 ```
 wget "https://github.com/radj307/ARRCON/releases/download/3.3.7/ARRCON-3.3.7-Linux.zip"
-unzip -o ARRCON-$version-Linux.zip
+unzip -o ARRCON-3.3.7.zip
 ```
 
 # Piecing it all together
