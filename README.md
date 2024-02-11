@@ -1,7 +1,7 @@
 
 # Palworld Dedicated Linux Server Auto Reboot Settings
 
-Simple settings for an Ubuntu Server with 32gb of RAM. I use this to automate server restarts using ARRCON for a safer shutdown than opting for a power cycle. 
+Simple settings for an Ubuntu Server with 32gb of RAM. I use this to automate server restarts using ARRCON for a safer shutdown rather than opting for a power cycle. 
 
 There are other RCON tools, but you can't do much in palworld anyways, so keep things real simple.
 
