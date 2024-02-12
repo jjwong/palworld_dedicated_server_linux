@@ -29,11 +29,16 @@ unzip -o ARRCON-3.3.7.zip
 2. In your PalWorldSettings.ini, make sure you set `RCONEnabled=true` and remember to set the port to something not used and dont use the default.
 3. Place the 2 scripts in your /home/steam directory
 4. You'll need to modify the crontab as root, and copy and update the schedule on what you would prefer. 
-
-The script currently does a backup every hour at the 10 minute mark, restarts the server twice a day at 2AM and 2PM.
-
 5. To modify crontab type in the following. `sudo crontab -e`
 6. You should be good to go now. If things aren't running, you may have forgotten to make the scripts executable. e.g `chmod +x palworld_restart.sh` 
+
+### cronjob note
+The server is currently is to do the following:
+
+A backup every hour at the 10 minute mark
+
+Restarts the server twice a day at 2AM and 2PM
+
 
 # Acknowledgements
 
