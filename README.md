@@ -35,9 +35,9 @@ unzip -o ARRCON-3.3.7.zip
 ### cronjob note
 The server is currently is to do the following:
 
-A backup every hour at the 10 minute mark
+- A backup every hour at the 10 minute mark
 
-Restarts the server twice a day at 2AM and 2PM
+- Restarts the server twice a day at 2AM and 2PM
 
 
 # Acknowledgements
